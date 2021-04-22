@@ -33,8 +33,8 @@ img {
 }
 
 img.profile-pic {
-	height: 30%;
-	width: 30%;
+	height: 10%;
+	width: 10%;
 	object-fit: cover;
 	border-radius: 50%;
 }
@@ -119,7 +119,7 @@ img.profile-pic {
 }
 
 .name-title-company {
-	height: 100%;
+	height: 10%;
 }
 
 .banner {
@@ -182,14 +182,14 @@ img.profile-pic {
 
 @media screen and (max-width: 600px) {
   img.profile-pic {
-    height: 60%;
-    width: 60%;
+    height: 10%;
+    width: 10%;
   }
 }
 
 @media screen and (max-width: 480px) {
   img.profile-pic {
-    height: 80%;
-    width: 80%;
+    height: 10%;
+    width: 10%;
   }
 }
